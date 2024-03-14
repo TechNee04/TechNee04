@@ -3,7 +3,7 @@
 🌱 I’m currently learning machine learning techniques and improving my coding skills.
 💞️ I’m looking to collaborate on open-source projects related to HR Analytics and data science.
 📫 You can reach me via email at singhnelam20@gmail.com
-😄 Pronouns: He
+😄 Pronouns: She/Her
 ⚡ Fun fact: I enjoy making terrariums and kodedama plants in my free time.
 
 <!---
